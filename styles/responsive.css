@@ -1,0 +1,21 @@
+@media (min-width: 500px) {
+    #inithial-box{
+        width: 450px;
+        height: 450px;
+        border: 10px solid;
+        border-radius: 50%;
+    }
+
+    #hora {
+        font-size: 5.5em;
+    }
+
+    #data {
+        font-size: 3em;
+    }
+
+    footer {
+        font-size: 1.3em;
+        margin-top: 55px;
+    }
+}

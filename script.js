@@ -31,7 +31,7 @@ function clock(){
         year = "0"+year
     }
 
-    document.getElementById('relogio').innerHTML = hours + ":" + minutes + ":" + seconds
+    document.getElementById('hora').innerHTML = hours + ":" + minutes + ":" + seconds
     document.getElementById('data').innerHTML = day + "/" + month + "/" + year
 }
 window.setInterval('clock()',500);

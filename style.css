@@ -4,6 +4,7 @@
 }
 
 body {
+    color: whitesmoke;
     background-color: #0000CD;
     height: 90vh;
     display: flex;

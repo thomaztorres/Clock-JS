@@ -34,5 +34,5 @@ function clock(){
     document.getElementById('hora').innerHTML = hours + ":" + minutes + ":" + seconds
     document.getElementById('data').innerHTML = day + "/" + month + "/" + year
 }
-window.setInterval('clock()',500);
+window.setInterval('clock()',1000);
 clock();

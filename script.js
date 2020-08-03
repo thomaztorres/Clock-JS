@@ -1,34 +1,34 @@
 function clock(){
-    var date = new Date();
-    var day = date.getDay();
-    var month = date.getMonth();
-    var year = date.getFullYear();
-    var hours = date.getHours();
-    var minutes = date.getMinutes();
-    var seconds = date.getSeconds();
+    let date = new Date();
+    let day = date.getDate();
+    let month = date.getMonth() + 1; 
+    let year = date.getFullYear();
+    let hours = date.getHours();
+    let minutes = date.getMinutes();
+    let seconds = date.getSeconds();
 
     if (hours < 10) {
-        hours = "0"+hours
+        hours = "0" + hours
     }
 
     if (minutes < 10) {
-        minutes = "0"+minutes
+        minutes = "0" + minutes
     }
 
     if (seconds < 10) {
-        seconds = "0"+seconds
+        seconds = "0" + seconds
     }
 
     if (day < 10) {
-        day = "0"+day
+        day = "0" + day
     }
 
     if (month < 10) {
-        month = "0"+month
+        month = "0" + month
     }
 
     if (year < 10) {
-        year = "0"+year
+        year = "0" + year
     }
 
     document.getElementById('hora').innerHTML = hours + ":" + minutes + ":" + seconds

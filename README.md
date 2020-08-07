@@ -17,4 +17,8 @@ This project is one of my first projects using JavaScript,
 i am constantly learning and studying the language a lot.
 I hope you enjoy 😁!
 
+### View this Project
+
+You can view this project in this link: https://thomaztorres.github.io/clock-js/
+
 #### 🚧 Soon new versions 🚧

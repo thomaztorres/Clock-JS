@@ -17,4 +17,4 @@ This project is one of my first projects using JavaScript,
 i am constantly learning and studying the language a lot.
 I hope you enjoy 😁!
 
-####🚧 Soon new versions 🚧
+#### 🚧 Soon new versions 🚧

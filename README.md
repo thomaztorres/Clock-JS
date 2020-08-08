@@ -5,7 +5,7 @@
 A simple clock that shows the current date and time.
 (In version 1.0, it use your device's date and time as a base.)
 
-### Languages Used
+### Technologies Used
 
 - HTML
 - CSS

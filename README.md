@@ -1,6 +1,5 @@
-# clock-js
+# Clock with JavaScript
 
-&nbsp;
 ## The project
 
 A simple clock that shows the current date and time.
